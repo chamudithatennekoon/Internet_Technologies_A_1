@@ -23,7 +23,21 @@ td {
   
 h1 {
     text-align: center;
+    font-family: 'Edu TAS Beginner', cursive;
   }
+
+h2 {
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+  }
+<<<<<<< HEAD
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+  }
+=======
+>>>>>>> d7b21c9f65c511db4b21502c5c36bc168f57995c
   
 img {
     width: 100%;
